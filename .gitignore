@@ -1,0 +1,22 @@
+# Ktor
+.idea/
+.idea
+build/
+out/
+
+# Kotlin
+*.iml
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# React
+node_modules/
+build/
+dist/
+.cache
+
+# macOS
+.DS_Store
+
