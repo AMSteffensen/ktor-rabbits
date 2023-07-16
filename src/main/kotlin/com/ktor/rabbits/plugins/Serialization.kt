@@ -1,4 +1,4 @@
-package com.plcoding.plugins
+package com.ktor.rabbits.plugins
 
 import io.ktor.serialization.*
 import io.ktor.features.*

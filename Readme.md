@@ -47,6 +47,9 @@ To run the Rabbit Project locally, follow these steps:
 - The backend API endpoints can be modified in the `src/main/kotlin/com/ktor/rabbits/routes/RabbitRoute.kt` file.
 - The frontend UI components can be modified in the `src/frontend/` directory.
 
+The dev server will start at
+``http://localhost:1234/``
+
 ## Contributing
 
 Contributions to the Rabbit Project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.

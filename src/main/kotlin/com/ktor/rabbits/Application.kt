@@ -1,7 +1,7 @@
-package com.plcoding
+package com.amsteffensen
 
 import io.ktor.application.*
-import com.plcoding.plugins.*
+import com.ktor.rabbits.plugins.*
 
 import io.ktor.features.CORS
 import io.ktor.http.HttpHeaders

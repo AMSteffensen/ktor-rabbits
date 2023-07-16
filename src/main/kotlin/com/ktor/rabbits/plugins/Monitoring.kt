@@ -1,4 +1,4 @@
-package com.plcoding.plugins
+package com.ktor.rabbits.plugins
 
 import io.ktor.features.*
 import org.slf4j.event.*

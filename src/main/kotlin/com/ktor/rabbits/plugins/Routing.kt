@@ -1,6 +1,7 @@
-package com.plcoding.plugins
+package com.ktor.rabbits.plugins
 
-import com.plcoding.routes.randomRabbit
+
+import com.ktor.rabbits.routes.randomRabbit
 import io.ktor.routing.*
 import io.ktor.http.*
 import io.ktor.content.*

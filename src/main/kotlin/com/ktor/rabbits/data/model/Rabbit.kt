@@ -1,5 +1,4 @@
-package com.plcoding.data.model
-
+package com.ktor.rabbits.data.model
 import kotlinx.serialization.Serializable
 
 @Serializable

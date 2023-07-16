@@ -1,6 +1,6 @@
-package com.plcoding.routes
+package com.ktor.rabbits.routes
 
-import com.plcoding.data.model.Rabbit
+import com.ktor.rabbits.data.model.Rabbit
 import io.ktor.application.*
 import io.ktor.http.*
 import io.ktor.response.*

@@ -8,7 +8,7 @@ plugins {
                 id("org.jetbrains.kotlin.plugin.serialization") version "1.5.31"
 }
 
-group = "com.plcoding"
+group = "com.amsteffensen.ktor-rabbits"
 version = "0.0.1"
 application {
     mainClass.set("io.ktor.server.netty.EngineMain")
@@ -37,3 +37,5 @@ tasks.register("cleanStaticJsFiles") {
         }
     }
 }
+
+

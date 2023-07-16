@@ -1,6 +1,6 @@
-package com.plcoding
+package com.amsteffensen
 
-import com.plcoding.routes.randomRabbit
+import com.ktor.rabbits.routes.randomRabbit
 import io.ktor.routing.*
 import io.ktor.http.*
 import io.ktor.serialization.*
@@ -13,7 +13,7 @@ import io.ktor.response.*
 import io.ktor.request.*
 import kotlin.test.*
 import io.ktor.server.testing.*
-import com.plcoding.plugins.*
+import com.ktor.rabbits.plugins.*
 
 class ApplicationTest {
    /* @Test
